@@ -1,4 +1,4 @@
-# vue-basic-monster-slayer
+# vue-basic-wonderful-quote
 
 ## Description
 
